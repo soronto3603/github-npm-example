@@ -54,4 +54,5 @@ repositories {
 
 dependencies {
     implementation "com.facebook.react:react-native:+"  // From node_modules
+    implementation fileTree(dir: "$rootDir/android/aar", include: ['*.aar', '*.jar'], exclude: [])
 }
