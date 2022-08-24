@@ -1,4 +1,4 @@
-package com.unityrn2;
+package com.soronto3603;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

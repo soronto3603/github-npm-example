@@ -1,4 +1,4 @@
-package com.unityrn2;
+package com.soronto3603;
 
 import android.app.Activity;
 import android.graphics.PixelFormat;
