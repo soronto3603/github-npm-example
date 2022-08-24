@@ -1,1 +1,1 @@
-console.log("hello hyper-cloud npm");
+console.log("hello hyper-cloud npm1");
