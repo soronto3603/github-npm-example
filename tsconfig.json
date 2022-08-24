@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "@azesmway/react-native-unity": ["./src/index"]
+      "@soronto3603/react-native-unity": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
